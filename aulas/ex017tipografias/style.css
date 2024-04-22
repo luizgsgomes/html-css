@@ -1,0 +1,9 @@
+body {
+    font-weight: bold;
+    font-family: Courier New, Courier, monospace;
+    text-decoration: underline;
+}
+h1, h2{
+    
+    font: italic bolder 3em 'work sans', sans-serif;
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'love';
+    src: url('PermanentMarker-Regular.ttf') 
+    format ('.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-family: 'love',PermanentMarker-Regular;
+    font-size: 16px;
+    color: black;
+}
+h1{
+        font-family: 'love', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-style: normal;    
+}
